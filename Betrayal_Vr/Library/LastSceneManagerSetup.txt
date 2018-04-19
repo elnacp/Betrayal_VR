@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Pruebas Linterna.unity
+- path: Assets/Escena.unity
   isLoaded: 1
   isActive: 1

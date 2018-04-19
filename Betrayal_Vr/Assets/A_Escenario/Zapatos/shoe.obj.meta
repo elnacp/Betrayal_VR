@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: e39baeb8b849abb48b9a3769281eff79
+timeCreated: 1523363219
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 002
+    100002: 1
+    100004: Arc001
+    100006: Arc002
+    100008: Arc003
+    100010: Arc004
+    100012: Arc005
+    100014: Arc006
+    100016: arka
+    100018: arka001
+    100020: Box001
+    100022: Box002
+    100024: Circle001
+    100026: Circle002
+    100028: Circle011
+    100030: Circle014
+    100032: dil
+    100034: dil001
+    100036: gri
+    100038: gri001
+    100040: Line001
+    100042: Line002
+    100044: Object001
+    100046: Object002
+    100048: //RootNode
+    100050: taban
+    100052: taban001
+    400000: 002
+    400002: 1
+    400004: Arc001
+    400006: Arc002
+    400008: Arc003
+    400010: Arc004
+    400012: Arc005
+    400014: Arc006
+    400016: arka
+    400018: arka001
+    400020: Box001
+    400022: Box002
+    400024: Circle001
+    400026: Circle002
+    400028: Circle011
+    400030: Circle014
+    400032: dil
+    400034: dil001
+    400036: gri
+    400038: gri001
+    400040: Line001
+    400042: Line002
+    400044: Object001
+    400046: Object002
+    400048: //RootNode
+    400050: taban
+    400052: taban001
+    2300000: 002
+    2300002: 1
+    2300004: Arc001
+    2300006: Arc002
+    2300008: Arc003
+    2300010: Arc004
+    2300012: Arc005
+    2300014: Arc006
+    2300016: arka
+    2300018: arka001
+    2300020: Box001
+    2300022: Box002
+    2300024: Circle001
+    2300026: Circle002
+    2300028: Circle011
+    2300030: Circle014
+    2300032: dil
+    2300034: dil001
+    2300036: gri
+    2300038: gri001
+    2300040: Line001
+    2300042: Line002
+    2300044: Object001
+    2300046: Object002
+    2300048: taban
+    2300050: taban001
+    3300000: 002
+    3300002: 1
+    3300004: Arc001
+    3300006: Arc002
+    3300008: Arc003
+    3300010: Arc004
+    3300012: Arc005
+    3300014: Arc006
+    3300016: arka
+    3300018: arka001
+    3300020: Box001
+    3300022: Box002
+    3300024: Circle001
+    3300026: Circle002
+    3300028: Circle011
+    3300030: Circle014
+    3300032: dil
+    3300034: dil001
+    3300036: gri
+    3300038: gri001
+    3300040: Line001
+    3300042: Line002
+    3300044: Object001
+    3300046: Object002
+    3300048: taban
+    3300050: taban001
+    4300000: 002
+    4300002: 1
+    4300004: Arc001
+    4300006: Arc002
+    4300008: Arc003
+    4300010: Arc004
+    4300012: Arc005
+    4300014: Arc006
+    4300016: arka
+    4300018: arka001
+    4300020: Box001
+    4300022: Box002
+    4300024: Circle001
+    4300026: Circle002
+    4300028: Circle011
+    4300030: Circle014
+    4300032: dil
+    4300034: dil001
+    4300036: gri
+    4300038: gri001
+    4300040: Line001
+    4300042: Line002
+    4300044: Object001
+    4300046: Object002
+    4300048: taban
+    4300050: taban001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 002Mat
+    second: {fileID: 2100000, guid: 7d7d0631193fb5b40b3ae2c928765543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1Mat
+    second: {fileID: 2100000, guid: c0583ffacf54f7b4f9ec466d8a997f5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arc001Mat
+    second: {fileID: 2100000, guid: 7b475f98c6b963847ba129e00050333c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arc002Mat
+    second: {fileID: 2100000, guid: ff3058c600edd6d418a23ebf135fabe6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arc003Mat
+    second: {fileID: 2100000, guid: 153be0372d2607f4fb85a35e9047ba88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arc004Mat
+    second: {fileID: 2100000, guid: 9563a675a7e3bbf47a592b5a6019e239, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arc005Mat
+    second: {fileID: 2100000, guid: 60af9c16262b5d3439317a3212923b99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arc006Mat
+    second: {fileID: 2100000, guid: 1fa5658f10bf3044b97a5d495c289e76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box001Mat
+    second: {fileID: 2100000, guid: 42e2e46a852bf304cb639e29a3ce7e64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box002Mat
+    second: {fileID: 2100000, guid: 1a242ed1b1c722e4295fe55240321951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle001Mat
+    second: {fileID: 2100000, guid: 49294a477e07845499cb1c878e43edbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle002Mat
+    second: {fileID: 2100000, guid: 5d490509b079a45458863825afa5cf6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle011Mat
+    second: {fileID: 2100000, guid: 728d40b9daa7ae143b3d54bd38bbdf2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle014Mat
+    second: {fileID: 2100000, guid: 1dfb49fb2113693418d2d5541ddb86b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line001Mat
+    second: {fileID: 2100000, guid: 3f99f168c1b4bb64187561005e95dc81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line002Mat
+    second: {fileID: 2100000, guid: d745235307a42ad499d7d4ad006e201e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object001Mat
+    second: {fileID: 2100000, guid: e841d5ebddd1bae41a91df7843049ed7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object002Mat
+    second: {fileID: 2100000, guid: e004a56c73b3856408ceb69da62eeba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arka001Mat
+    second: {fileID: 2100000, guid: c24adc75dbddafb49a0b6953863f9d59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arkaMat
+    second: {fileID: 2100000, guid: a39a4682e9ac28c4da763ff07418a28f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dil001Mat
+    second: {fileID: 2100000, guid: 6d36ea2a0d699834596216a32e464ff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dilMat
+    second: {fileID: 2100000, guid: 04447f895afdb664a8bb95d9827d87a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gri001Mat
+    second: {fileID: 2100000, guid: 2b7f957a9bb752542ae24107c85f979d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: griMat
+    second: {fileID: 2100000, guid: 34fee95aabd0cd84d8c5cfd713f49d6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taban001Mat
+    second: {fileID: 2100000, guid: 2d14b6ff9d016ad4fbe426405cb4118f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tabanMat
+    second: {fileID: 2100000, guid: 32ae8a66f59a241429ce1200422f5844, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
